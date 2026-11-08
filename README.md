@@ -3,15 +3,15 @@
 3Dの文字アニメーションを作って、動画にして書き出せる、**無料**のツールです。
 YouTubeチャンネル「ブタっち」で配布しています。インストールはいりません。
 
-**最新版: v1.0.1**
+**最新版: v1.0.2**
 
 ## ダウンロード
 
 **[最新版をダウンロード（Releases）](https://github.com/butacchi/3d-text-studio/releases/latest)**
 
-1. ページの下のほうにある「Assets」から、`3DTextStudio_v1.0.1.zip` をダウンロードします。
+1. ページの下のほうにある「Assets」から、`3DTextStudio_v1.0.2.zip` をダウンロードします。
 2. zipを解凍します。
-3. 中の `3DTextStudio_Butacchi_v1.0.1.exe` をダブルクリックします。
+3. 中の `3DTextStudio_Butacchi_v1.0.2.exe` をダブルクリックします。
 
 ※ 解凍したフォルダごと、好きな場所に置いてください。EXEだけを別の場所に移すと、`fonts` フォルダを読めなくなります。
 
