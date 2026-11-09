@@ -3,24 +3,20 @@
 3Dの文字アニメーションを作って、動画にして書き出せる、**無料**のツールです。
 公式の配布場所は、**このGitHubのページだけ**です。インストールはいりません。
 
-<p align="center">
-  <img src="docs/samples/hero.gif" alt="3D Text Studio で作った、文字が中央からひろがる動き" width="640">
-</p>
-
-<p align="center"><sub>中央から、文字がひろがります。（上の画像は、このソフトで書き出した文字を、背景に重ねたサンプルです）</sub></p>
-
 <table>
   <tr>
-    <td><img src="docs/samples/cyan.png" alt="ネオン発光 (シアン)"></td>
-    <td><img src="docs/samples/magenta.png" alt="ネオン輪郭 (マゼンタ)"></td>
-    <td><img src="docs/samples/red.png" alt="ブラッド"></td>
+    <td><img src="docs/samples/cyan.gif" alt="サイバー風 (シアン)"></td>
+    <td><img src="docs/samples/magenta.gif" alt="ビートに合わせたパルス (マゼンタ)"></td>
+    <td><img src="docs/samples/red.gif" alt="スラム (レッド)"></td>
   </tr>
   <tr>
-    <td><img src="docs/samples/green.png" alt="ネオン発光 (グリーン)"></td>
-    <td><img src="docs/samples/gold.png" alt="ゴールド"></td>
-    <td><img src="docs/samples/ice.png" alt="クローム"></td>
+    <td><img src="docs/samples/green.gif" alt="グリッチと振動 (グリーン)"></td>
+    <td><img src="docs/samples/gold.gif" alt="グリッチと振動 (ゴールド)"></td>
+    <td><img src="docs/samples/ice.gif" alt="シネマ風 (クローム)"></td>
   </tr>
 </table>
+
+<p align="center"><sub>中央から、文字がゆっくりひろがります。（画像は、このソフトで書き出した文字を、背景に重ねたサンプルです）</sub></p>
 
 ショート動画のキルシーンや、ゲーム実況の決めの場面などで、BGMに合わせて使えます。
 書き出した動画は、**緑・青・黒の背景**から選べるので、動画編集ソフトで、そのまま合成できます。
