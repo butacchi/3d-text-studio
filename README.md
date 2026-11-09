@@ -3,6 +3,10 @@
 3Dの文字アニメーションを作って、動画にして書き出せる、**無料**のツールです。
 公式の配布場所は、**このGitHubのページだけ**です。インストールはいりません。
 
+<p align="center">
+  <img src="docs/samples/hero.gif" alt="3D Text Studio で作った、文字が中央からひろがる動き" width="720">
+</p>
+
 <table>
   <tr>
     <td><img src="docs/samples/cyan.gif" alt="サイバー風 (シアン)"></td>
