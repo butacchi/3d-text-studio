@@ -3,7 +3,29 @@
 3Dの文字アニメーションを作って、動画にして書き出せる、**無料**のツールです。
 公式の配布場所は、**このGitHubのページだけ**です。インストールはいりません。
 
-**最新版: v1.0.3**
+<p align="center">
+  <img src="docs/samples/hero.gif" alt="3D Text Studio で作った、文字が中央からひろがる動き" width="640">
+</p>
+
+<p align="center"><sub>中央から、文字がひろがります。（上の画像は、このソフトで書き出した文字を、背景に重ねたサンプルです）</sub></p>
+
+<table>
+  <tr>
+    <td><img src="docs/samples/cyan.png" alt="ネオン発光 (シアン)"></td>
+    <td><img src="docs/samples/magenta.png" alt="ネオン輪郭 (マゼンタ)"></td>
+    <td><img src="docs/samples/red.png" alt="ブラッド"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/samples/green.png" alt="ネオン発光 (グリーン)"></td>
+    <td><img src="docs/samples/gold.png" alt="ゴールド"></td>
+    <td><img src="docs/samples/ice.png" alt="クローム"></td>
+  </tr>
+</table>
+
+ショート動画のキルシーンや、ゲーム実況の決めの場面などで、BGMに合わせて使えます。
+書き出した動画は、**緑・青・黒の背景**から選べるので、動画編集ソフトで、そのまま合成できます。
+
+**最新版: v1.0.4**
 
 **[使い方の解説動画（YouTube）](https://youtu.be/aT-1pzrFpfI)**
 
@@ -11,9 +33,9 @@
 
 **[最新版をダウンロード（Releases）](https://github.com/butacchi/3d-text-studio/releases/latest)**
 
-1. ページの下のほうにある「Assets」から、`3DTextStudio_v1.0.3.zip` をダウンロードします。
+1. ページの下のほうにある「Assets」から、`3DTextStudio_v1.0.4.zip` をダウンロードします。
 2. zipを解凍します。
-3. 中の `3DTextStudio_Butacchi_v1.0.3.exe` をダブルクリックします。
+3. 中の `3DTextStudio_Butacchi_v1.0.4.exe` をダブルクリックします。
 
 ※ 解凍したフォルダごと、好きな場所に置いてください。EXEだけを別の場所に移すと、`fonts` フォルダを読めなくなります。
 
